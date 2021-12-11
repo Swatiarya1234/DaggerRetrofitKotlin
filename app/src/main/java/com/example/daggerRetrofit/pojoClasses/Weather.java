@@ -1,5 +1,5 @@
 
-package com.example.daggerRetrofit.PojoClasses;
+package com.example.daggerRetrofit.pojoClasses;
 
 import com.google.gson.annotations.SerializedName;
 

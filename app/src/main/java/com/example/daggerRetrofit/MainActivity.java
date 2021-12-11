@@ -7,7 +7,7 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.daggerRetrofit.PojoClasses.WeatherPojoClass;
+import com.example.daggerRetrofit.pojoClasses.WeatherPojoClass;
 import com.example.daggerRetrofit.restClass.ApiInterface;
 
 import javax.inject.Inject;

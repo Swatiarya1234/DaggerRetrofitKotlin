@@ -1,7 +1,7 @@
 package com.example.daggerRetrofit.restClass;
 
 
-import com.example.daggerRetrofit.PojoClasses.WeatherPojoClass;
+import com.example.daggerRetrofit.pojoClasses.WeatherPojoClass;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
